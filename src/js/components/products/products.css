@@ -1,0 +1,14 @@
+.products {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.product {
+    flex: 1 100%;
+}
+
+@media only screen and (min-width: 768px) {
+    .product {
+        flex: 1 45%;
+    }
+}

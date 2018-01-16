@@ -1,0 +1,12 @@
+body {
+    margin-top: 0;
+}
+
+.app {
+    margin: auto;
+}
+
+.login {
+    margin: 20px auto;
+    border: solid 1px;
+}

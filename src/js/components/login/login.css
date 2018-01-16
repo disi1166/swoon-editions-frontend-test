@@ -1,0 +1,25 @@
+.login {
+    max-width: 500px;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    text-align: center;
+    padding: 5px;
+}
+
+.login__heading {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.login__input {
+    margin-bottom: 10px;
+}
+
+.login__button {
+    cursor: pointer;
+}
+
+.login__anchor {
+    cursor: pointer;
+}

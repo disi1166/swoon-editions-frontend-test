@@ -1,0 +1,29 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid;
+    padding: 5px;
+}
+
+.product__name {
+    font-weight: bold;
+    margin-left: 2px;
+}
+
+.product__details {
+    margin: 5px 5px 5px 0;
+    display: flex;
+}
+
+.product__image {
+    float: left;
+    margin-right: 5px;
+    height: 33%;
+    width: 33%;
+}
+
+.product__info {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
